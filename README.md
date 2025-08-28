@@ -37,7 +37,6 @@ The system uses **RTC (Real Time Clock)** to track time and trigger reminders ba
 
    * The buzzer rings.
    * LCD shows the reminder message (e.g., *“Take Medicine 1”*).
-   * (Optional) GSM sends an SMS reminder.
 4. User acknowledges by pressing a key, stopping the buzzer.
 
 ## 🔑 Applications
